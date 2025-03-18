@@ -26,10 +26,10 @@ Foi desenvolvido utilizando as seguintes tecnologias:
 AmigoSecretoDBZ/
 │-- assets/            # Imagens e sons do projeto
 │-- screenshots/       # Capturas de tela do projeto
+│-- README.md          # Documentação do projeto
+│-- app.js             # Lógica do sorteio e funcionalidades
 │-- index.html         # Estrutura principal do site
 │-- style.css          # Estilos da interface
-│-- app.js             # Lógica do sorteio e funcionalidades
-│-- README.md          # Documentação do projeto
 ```
 
 
